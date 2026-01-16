@@ -6,6 +6,7 @@ Webside: https://shuyi-huang.github.io/Norward-Web-application/
 - HTML5
 - CSS
 
+This project can be built and run using VS Code.
 
 # Norward — Company Website
 
